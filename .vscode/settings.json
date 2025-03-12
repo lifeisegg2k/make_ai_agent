@@ -1,0 +1,8 @@
+{
+  "python.analysis.extraPaths" : [
+      "./.venv",
+      "./.venv/lib/python3.12/site-packages/",
+
+  ],
+  "notebook.output.wordWrap": true
+}

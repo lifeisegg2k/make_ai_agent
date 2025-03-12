@@ -1,0 +1,10 @@
+env/
+.env
+history.md
+.DS_Store
+.cache/
+files/
+.streamlit/
+__pycache__/
+venv
+.venv
