@@ -36,5 +36,5 @@ async def llm_call_async(prompt: str,  model: str = "gpt-4o-mini") -> str:
 
 
 if __name__ == "__main__":
-    test = llm_call("안녕")
+    test = llm_call("Hello")
     print(test)
